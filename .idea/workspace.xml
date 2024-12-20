@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb6fc855-42f9-48d7-80c3-863e35adc791" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../CMLA/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CMLA/matrix_A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CMLA/vector_b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp1/ConsoleApp2/Fibonachi2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp2/ConsoleApp2/Servis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp2/ConsoleApp2/main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp3/ConsoleApp3/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp3/ConsoleApp3/Servise.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp5/ConsoleApp5/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp5/ConsoleApp5/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp6Chmla/ConsoleApp1/matrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ConsoleApp6Chmla/ConsoleApp6Chmla/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../MauiApp2/global.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/WebSite/src/main/java/org/example/website/Controllers/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/WebSite/src/main/java/org/example/website/Model/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/WebSite/src/main/java/org/example/website/Service/Implomentation/UserServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/WebSite/src/main/java/org/example/website/Service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/WebSite/src/main/resources/templates/home-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/JAVAPRACTICAL/untitled1/src/sknsd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/University/untitled/Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/University/untitled/src/Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/University/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/University/untitled/src/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../java/University/untitled/src/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../math_statistic/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../math_statistic/а.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject1/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject1/result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject1/ь.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Нова папка (2)/multiligual/demo/src/main/java/com/example/demo/Controllers/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Нова папка (2)/multiligual/rest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Нова папка (2)/multiligual/rest/src/main/java/com/example/rest/get.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../срьдф/срьдф/input.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o244gUYfUdFDWxqtfUomjiZAQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Dockerfile.executor": "Run",
+    "Docker.compose.yaml.shop: Compose Deployment.executor": "Run",
+    "Docker.compose.yaml: Compose Deployment.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ShopApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/univer/веб/shop/Shop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Користувач\Desktop\Lab4\Shop\src\main\java\com\website\Shop\Services\Implomentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopApplication">
+    <configuration name="ShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.website.Shop.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="compose.yaml.shop: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="shop" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.compose.yaml.shop: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6fc855-42f9-48d7-80c3-863e35adc791" name="Changes" comment="" />
+      <created>1730054146433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730054146433</updated>
+      <workItem from="1730054147519" duration="975000" />
+      <workItem from="1730057163085" duration="18000" />
+      <workItem from="1730130163912" duration="8000" />
+      <workItem from="1730134363929" duration="7252000" />
+      <workItem from="1730145998938" duration="28000" />
+      <workItem from="1730220535600" duration="2339000" />
+      <workItem from="1730230283373" duration="41000" />
+      <workItem from="1730984767405" duration="1676000" />
+      <workItem from="1731091779911" duration="15111000" />
+      <workItem from="1731184902481" duration="37055000" />
+      <workItem from="1731509831789" duration="2528000" />
+      <workItem from="1731512388064" duration="9812000" />
+      <workItem from="1731577664895" duration="1570000" />
+      <workItem from="1734725593429" duration="1110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.website.Shop.Services.Implementation.ProductsServiceImpl" memberName="productsRepository" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
